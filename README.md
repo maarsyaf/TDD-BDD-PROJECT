@@ -87,7 +87,3 @@ behave
 ```
 
 ---
-
-## 👨‍💻 Author
-
-Final Project submission for peer-reviewed assignment.
